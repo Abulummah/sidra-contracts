@@ -1,4 +1,4 @@
-# Genesis Smart Contracts for Sidra Chain
+Masha-Allah# Genesis Smart Contracts for Sidra Chain
 
 These are the genesis smart contracts designed specifically for the Sidra Chain.
 
